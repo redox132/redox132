@@ -4,7 +4,7 @@ Hi! I’m **Rida** — also known as **Redox** :)
 I'm a **software developer** with a focus on **backend development**.  
 Currently working at **[@neroit.net](https://neroit.net)**.
 
-* I’m currently learning **C**, **C++**, and **Node.js**  
+* I’m currently learning **C**, **C++** 
 > (C and C++ are part of my curriculum at **42WAW**)
 
 🤝 I’m looking to collaborate on **interesting projects** and **open-source codebases**.
@@ -16,8 +16,8 @@ Currently working at **[@neroit.net](https://neroit.net)**.
 Here are some of the tools and technologies I work with:
 
 - **Languages**: HTML, CSS, SCSS, JavaScript, PHP, C, C++, Node.js
-- **Frameworks & Libraries**: Laravel, Express.js, Tailwind CSS *(still learning it!)*
-- **Databases**: MySQL
+- **Frameworks & Libraries**: Laravel, Tailwind CSS *(still learning it!)*
+- **Databases**: MySQL, SQLite
 - **DevOps & Tools**: Docker, NGINX *(reverse proxy, load balancing, etc.)*, Git & GitHub
 - **Other**: Linux, VS Code
 
