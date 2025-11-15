@@ -26,4 +26,8 @@ Hi there:
     - "Programming"
     - "Open-source"
     - "Learning new technologies"
+  contact_me_at:
+    - ridaelkouri@gmail.com
+    - https://www.linkedin.com/in/rida-el-kouri
+    - ridaelkouri.com
   fun_fact: "Also known as Redox, part of 42WAW curriculum"
