@@ -30,3 +30,9 @@ Hi there:
     - https://www.linkedin.com/in/rida-el-kouri
     - ridaelkouri.com
   fun_fact: "Also known as Redox, part of 42WAW curriculum"
+
+
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
