@@ -1,28 +1,29 @@
-# About Me
-
-Hi! I’m **Rida** — also known as **Redox**.  
-I'm a **software developer** focused mainly on **backend development**, currently working at https://www.exactsolutions.pl
-
-I’m currently learning **C** and **C#** as part of my curriculum at **42WAW**.  
-I’m also open to collaborating on interesting projects and open-source codebases.
-
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-# Tech Stack & Tools
 
-- **Languages**: HTML, CSS, SCSS, JavaScript, PHP, C, C#  
-- **Frameworks & Libraries**: Laravel, Express.js Tailwind CSS  
-- **Databases**: MySQL, SQLite, Monogodb, Sqlserver
-- **DevOps & Tools**: Docker, NGINX, Git & GitHub  
-- **Other**: Linux, VS Code
+# Hi there 👋
 
----
-
-# Get in Touch
-
-- **Email**: [ridaelkouri@gmail.com](mailto:ridaelkouri@gmail.com)  
-- **Website**: [ridaelkouri.com](https://ridaelkouri.com)  
-- **LinkedIn**: [linkedin.com/in/rida-el-kouri](https://www.linkedin.com/in/rida-el-kouri)
-
+```yaml
+Hi there:
+  name: "Rida"
+  pronouns: "He/Him"
+  current_work: "Software Developer at neroit.net"
+  currently_learning: 
+    - "C"
+    - "C#"
+  looking_to_collaborate_on: "Interesting projects and open-source codebases"
+  looking_for_help_with: "Backend development best practices, C#, Laravel"
+  ask_me_about: 
+    - "Backend development"
+    - "APIs"
+    - "Databases"
+  reach_me_at: 
+    email: "ridaelkouri@gmail.com"
+    website: "https://ridaelkouri.com"
+    linkedin: "https://www.linkedin.com/in/rida-el-kouri"
+  love: 
+    - "Programming"
+    - "Open-source"
+    - "Learning new technologies"
+  fun_fact: "Also known as Redox, part of 42WAW curriculum"
