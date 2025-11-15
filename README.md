@@ -7,7 +7,6 @@
 ```yaml
 Hi there:
   name: "Rida"
-  pronouns: "He/Him"
   current_work: "Software Developer at neroit.net"
   currently_learning: 
     - "C"
