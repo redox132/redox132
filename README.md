@@ -3,11 +3,6 @@
 </p>
 
 
-
-![Snake animation](https://github.com/redox132/redox132/blob/output/github-contribution-grid-snake.svg)
-
-
-
 # Hi there!
 
 ```yaml
@@ -36,3 +31,8 @@ Hi there:
     - https://www.linkedin.com/in/rida-el-kouri
     - ridaelkouri.com
   fun_fact: "Also known as Redox, part of 42WAW curriculum"
+
+```
+
+
+![Snake animation](https://github.com/redox132/redox132/blob/output/github-contribution-grid-snake.svg)
