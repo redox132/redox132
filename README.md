@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+
 # Hi there!
 
 ```yaml
@@ -30,9 +36,3 @@ Hi there:
     - https://www.linkedin.com/in/rida-el-kouri
     - ridaelkouri.com
   fun_fact: "Also known as Redox, part of 42WAW curriculum"
-
-
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
