@@ -7,7 +7,9 @@ I’m currently learning **C** and **C#** as part of my curriculum at **42WAW**.
 I’m also open to collaborating on interesting projects and open-source codebases.
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 # Tech Stack & Tools
 
 - **Languages**: HTML, CSS, SCSS, JavaScript, PHP, C, C#  
