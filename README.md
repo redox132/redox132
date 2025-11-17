@@ -1,4 +1,4 @@
-[<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=eeee&text=Hi%20there!&section=header&textBg=false&fontColor=000&fontSize=60&rotate=2&desc=Glad%20you%20are%20here&descSize=18&descAlign=49&descAlignY=62&fontAlign=50"/>
 </p>
 
