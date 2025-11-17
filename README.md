@@ -1,6 +1,6 @@
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&gradient=black&height=100"/>
-</p>
+</p>](https://capsule-render.vercel.app/api?type=egg&height=300&color=eeee&text=Hi%20there!&section=header&textBg=false&fontColor=000&fontSize=60&rotate=2&desc=Glad%20you%20are%20here&descSize=18&descAlign=49&descAlignY=62&fontAlign=50)
 
 
 # Hi there!
