@@ -31,6 +31,3 @@ Hi there:
   fun_fact: "Also known as Redox, part of 42WAW curriculum"
 
 ```
-
-
-![Snake animation](https://github.com/redox132/redox132/blob/output/github-contribution-grid-snake.svg)
