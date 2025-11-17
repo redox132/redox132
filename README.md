@@ -6,7 +6,7 @@
 ```yaml
 Hi there:
   name: "Rida"
-  current_work: "Software Developer at neroit.net"
+  current_work: "Software Developer at Exact Solution Electronics"
   currently_learning: 
     - "C"
     - "C#"
