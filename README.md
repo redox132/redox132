@@ -3,8 +3,6 @@
 </p>
 
 
-# Hi there!
-
 ```yaml
 Hi there:
   name: "Rida"
