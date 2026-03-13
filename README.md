@@ -1,3 +1,4 @@
+```
 Hi there:
   name: "Rida"
   current_work: "Fullstack .NET Backend Developer at Exact Solution Electronics"
@@ -26,4 +27,4 @@ Hi there:
   contact_me_at:
     - ridaelkouri@gmail.com
     - https://www.linkedin.com/in/rida-el-kouri
-    - ridaelkouri.com
+```
