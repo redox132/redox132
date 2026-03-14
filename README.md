@@ -18,7 +18,6 @@ Hi there:
   reach_me_at:
     email: "ridaelkouri@gmail.com"
     linkedin: "https://www.linkedin.com/in/rida-el-kouri"
-    portfolio: "ridaelkouri.com"
   love:
     - "Programming"
     - "Open-source"
